@@ -12,7 +12,7 @@
 |----------------------------------------------------------------------------------------
 | Initials  Name                 Contact
 | -------- --------------------- ----------------------
-| T.Wang   Tianyu WANG          twang@mobis-usa.com
+| T.Wang   Tianyu WANG          tianyuw@icloud.com
 |
 |----------------------------------------------------------------------------------------
 | R E V I S I O N H I S T O R Y
@@ -81,9 +81,7 @@ int32_t start, end, Timecost_detection = 0, Timecost_SVM_calculation = 0, Timeco
 int32_t main(int32_t argc, int8_t *argv[])
 {
 	/* TSR user interface explanation */
-	printf("<<<This Software Belongs to MOBIS-NORTH-AMERICA LLC>>>\n");
-	printf("1. Please contact Jungme Park or Tianyu Wang for more info\n");
-	printf("2. please make sure input all the parameters \nin the 'Input_Parameters.txt' before run this program\n");
+	printf("please make sure input all the parameters \nin the 'Input_Parameters.txt' before run this program\n");
 	printf("\n");
 	printf("Please type anything to continue\n");
 	char input_anything;
